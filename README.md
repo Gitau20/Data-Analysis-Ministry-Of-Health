@@ -38,3 +38,18 @@ Enhance workforce capacity through long-term training
 
 📊 Tools used: Data analysis, stakeholder mapping, visualization
 🌍 Focus: Health systems & policy insights
+
+## Project 3: Depression among people living with HIV (PLHIV) in care at Machakos Level 5 Hospital (2023–2024)
+This project analyzes clinical and psychosocial data from PLHIV attending Machakos Level 5 Hospital to investigate the prevalence, severity, and correlates of depression.
+
+Using PHQ-9 scores and clinical records, the analysis finds that a notable proportion of patients experience moderate to severe depression, with certain socio-demographic and clinical factors strongly associated with higher risk. Key findings include the impact of occupation and ART regimen type on depression prevalence, as well as potential influences of CD4 count. The study also identifies gaps in behavioral and psychosocial reporting, such as inconsistent responses on social support and coping strategies.
+
+The analysis provides actionable recommendations for:
+
+Routine mental health screening for PLHIV
+Targeted psychosocial support interventions
+Enhanced clinical documentation of depression and psychosocial variables
+Integration of mental health services into HIV care programs
+
+📊 Tools used: Python, pandas, statsmodels, data visualization
+🏥 Context: HIV outpatient clinic clinical and psychosocial data
